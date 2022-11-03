@@ -10,8 +10,11 @@ public Fraction(int numerator, int denomentator) {
 	this.numerator=numerator;
 	this.denomenator=denomenator;
 	
+	
 }
 	
+
+public 
 	
 	
 }
